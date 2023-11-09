@@ -1,0 +1,1 @@
+export("hello_world", "sum_two_nums")
